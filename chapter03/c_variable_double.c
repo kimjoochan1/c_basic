@@ -1,6 +1,6 @@
 /**
  * 실수형
- *  + float(7), double(15), long double(15 이상)
+ *  + float(7), double(15), float double(15 이상), ...long double
  *  + 값의 범위보다 유효숫자(소수점) 갯수가 중요
  *  + 정수형을 기본으로, 실수형은 꼭 필요한 경우만 사용
  *  + 실수형은 유효숫자가 많은 double형을 기본으로 사용
