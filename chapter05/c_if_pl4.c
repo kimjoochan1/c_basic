@@ -41,7 +41,7 @@ int main(void) {
     // bmi_degree 변수에는 문자열 저장
     // C → 문자열: char [20]
     
-        char bmi_value[20];
+        char bmi_degree[20];
 
     if(bmi_value < 18.5) {
         strcpy(bmi_degree, "저체중"); 
